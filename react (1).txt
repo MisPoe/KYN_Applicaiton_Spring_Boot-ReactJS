@@ -1,0 +1,54 @@
+React Command 
+
+1. Create New Application in React JS
+npm install -g create-react-app
+npx create-react-app <<Application Name>>
+
+2. Start Existing Application
+cd <<Application Name>>
+npm start
+
+3. Install Bootstrap 
+npm install boostrap -save
+
+--Change bootstrap version accordingly
+npm install --save react-bootstrap bootstrap@5
+
+import 'bootstrap/dist/css/bootstrap.min.css'; in index.js
+
+--import 1 CSS and 3 JS files in index.html
+
+4. Install Axios (Interface http protocol between react and spring boot)
+npm install axios
+
+5. Install Router to route uri
+npm install react-router-dom
+
+-To uninstall 
+npm uninstall react-router-dom
+
+To install Router version 5 (for using Switch)
+npm install react-router-dom@5.2.0
+
+6. Install Google-Login API
+npm install react-google-login
+
+7. Install Facebook-Login API
+npm install react-facebook-login
+
+8. Install React Alert
+npm install react-s-alert
+
+rce - shortcut for component 
+
+
+
+Dependency 
+spring boot dev tools
+spring conguration processor
+validatioh
+spring data jpa
+mysql driver
+spring security
+OAuth2 client
+spring web
